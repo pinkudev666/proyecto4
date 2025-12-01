@@ -1,0 +1,5 @@
+temucosoft_backend/__pycache__/
+venv/
+.env
+temusoft_app/__pycache__/
+migrations/__pycache__/
